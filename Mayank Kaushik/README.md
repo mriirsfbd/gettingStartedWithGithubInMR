@@ -8,4 +8,3 @@ Skill-Set : * **C**
             * **Bootstrap**
             * **JavaScript**
             * **React**
-
