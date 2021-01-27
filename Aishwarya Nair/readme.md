@@ -1,2 +1,2 @@
 hello 
-My name is Aishwarya Nair. I'm good i python
+My name is Aishwarya Nair. I'm good in python
